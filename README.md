@@ -37,8 +37,4 @@ Result Screen:
 \
 \
 \
-\
-
-
-
 \* If you're using Linux, I doubt you need an executable to click on :)
