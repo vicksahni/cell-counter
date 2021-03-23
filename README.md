@@ -15,8 +15,8 @@ Windows: Enter the following into Command Prompt.
 
 <u>**TODO:**</u>
 - Add more documentation
-- Integrate breadth-first search from previous code
-- Link to ImageJ for tracking photoswitching index
+- Integrate breadth-first search from previous code to map dendritic connections
+- Link to ImageJ for tracking photoswitching index and add to result JSON
 - Optimize runtimes—there are currently too many unnecessary loops
 - Create executables/applications for each platform (Mac .app/Windows .exe\*) for command-line averse users
 
