@@ -30,6 +30,12 @@ Result Screen:
 
 ![result screen](https://i.imgur.com/liLCy6w.png)
 
+At the moment, the results screen isn't too exciting, but experimentation in a Jupyter Notebook using breadth-first search yielded this:
+
+![eda](https://i.imgur.com/Dr7bNMq.png)
+
+The green represents a dendritic connection between the somas of two cells, and merging the BFS code from the Jupyter notebook is the next step so that this program can generate the same.
+
 \
 \
 \
