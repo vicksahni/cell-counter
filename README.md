@@ -13,7 +13,7 @@ Mac/Linux: Enter the following into your Terminal.
 Windows: Enter the following into Command Prompt.
 `py main.py`
 
-<u>**TODO:**</u
+<u>**TODO:**</u>
 - Add more documentation
 - Integrate breadth-first search from previous code
 - Link to ImageJ for tracking photoswitching index
@@ -21,6 +21,7 @@ Windows: Enter the following into Command Prompt.
 - Create executables/applications for each platform (Mac .app/Windows .exe\*) for command-line averse users
 
 <u>**Screenshots:**</u>
+
 Import Screen:
 
 ![import screen](https://i.imgur.com/TFPOL8y.png)
