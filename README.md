@@ -16,3 +16,4 @@ TODO:
 - Add more documentation
 - Integrate breadth-first search from previous code
 - Link to ImageJ for tracking photoswitching index
+- Optimize runtimes—too many unnecessary iterations
