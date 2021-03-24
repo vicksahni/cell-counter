@@ -1,7 +1,10 @@
 
 # cell-counter
 
-Counts cells in a calcium imaging movie. Currently in a very rudimentary stage, GUI refinements and added features coming soon!
+This project aims to develop an calcium imaging-based alternative to microelectrode array (MEA) experiments to record retinal neuron activity. While MEA provides excellent temporal resolution and allows for the direct monitoring of action potentials, it lacks spatial resolution, and the source of an action potential cannot definitively be identified (it could be coming from a single neuron, or a "unit" of neurons acting in unison). Ca<sup>2+</sup> influx is an indirect indicator of action potentials ([Grienberger & Konnerth, 2012](https://www.cell.com/neuron/fulltext/S0896-6273(12)00172-9)), so utilizing two-photon microscopy and fluorescent calcium indicators can provide high-fidelity spatial information with high, although not equivalent to MEA, level of temporal resolution. 
+
+
+Currently in a very rudimentary stage, GUI refinements and added features coming soon!
 
 <u>**How to run:**</u>
 
